@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoLoc</string>
+    <string name="departement">Departement:</string>
+    <string name="cp">Code Postal:</string>
+    <string name="population">Population:</string>
+    <string name="superficie">Superficie :</string>
+
+    <string-array name="planete_arrays">
+        <item>lune</item>
+        <item>terre</item>
+        <item>pluton</item>
+
+    </string-array>
+
+</resources>
